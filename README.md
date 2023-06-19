@@ -7,7 +7,7 @@ Data from *embedded temperature sensor* is transmitted to *computer* via **USART
 
 The application is written in `C++` for microcontroller **STM32F411RE**. 
 
-[Click here](Docs/Design.md) to read about design of this application. 
+[Click here](docs/Design.md) to read about design of this application. 
 
 ## How to use 
 
@@ -29,7 +29,7 @@ In order to perform both parallel measurements using the microcontroller, [C++ F
 ### COM-port configuration
 
 **COM-port configuration** (parity, number of stop bits, number of data bits, baud rate) is made in the code itself depending on technical requirements.
-Click [here](Docs/DataTransmission.md) to read full information on how to configure data transmission in this application. 
+Click [here](docs/DataTransmission.md) to read full information on how to configure data transmission in this application. 
 
 ### How to download this repository and edit code 
 
