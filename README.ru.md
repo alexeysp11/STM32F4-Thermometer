@@ -16,7 +16,6 @@
 - Windows OS; 
 - IAR Embedded Workbench 8.40.2; 
 - Microcontroller *STM32F411RE*;
-- Акселерометр *ADXL345*; 
 - Любой тестовый редактор (*VS Code*, *Sublime Text*, *Notepad++* etc). 
 
 ### UI 

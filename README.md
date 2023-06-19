@@ -16,7 +16,6 @@ The application is written in `C++` for microcontroller **STM32F411RE**.
 - Windows OS; 
 - IAR Embedded Workbench 8.40.2; 
 - Microcontroller *STM32F411RE*;
-- Accelerometer *ADXL345*; 
 - Any text editor (*VS Code*, *Sublime Text*, *Notepad++* etc). 
 
 ### UI 
