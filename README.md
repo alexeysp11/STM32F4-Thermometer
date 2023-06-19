@@ -2,7 +2,7 @@
 
 Read this in other languages: [English](README.md), [Russian/Русский](README.ru.md). 
 
-`STM32F4-Accel-Temperature` is a project that allows you to measure temperature and transfer the data from MCU to a computer.
+`STM32F4-Thermometer` is a project that allows you to measure temperature and transfer the data from MCU to a computer.
 Data from *embedded temperature sensor* is transmitted to *computer* via **USART** interface.
 
 The application is written in `C++` for microcontroller **STM32F411RE**. 
