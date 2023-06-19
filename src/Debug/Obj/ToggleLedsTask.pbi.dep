@@ -1,0 +1,6 @@
+ToggleLedsTask.pbi: \
+  C:\Users\User\Desktop\projects\Stm32Project\MeasuringSystem\MyTasks\ToggleLedsTask.cpp \
+  C:\Users\User\Desktop\projects\Stm32Project\MeasuringSystem\MyTasks/ToggleLedsTask.hpp \
+  C:\Users\User\Desktop\projects\Stm32Project\MeasuringSystem\Rtos\wrapper\event.hpp \
+  C:\Users\User\Desktop\projects\Stm32Project\MeasuringSystem\Rtos\wrapper\FreeRtos\rtosdefs.hpp \
+  C:\Users\User\Desktop\projects\Stm32Project\MeasuringSystem\Rtos\FreeRtos\include\FreeRtos.h

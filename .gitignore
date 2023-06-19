@@ -1,0 +1,16 @@
+.vs
+.vscode
+
+# Unfinished docs 
+Docs/TextDocs
+
+# Process docs
+/Docs/books
+/Docs/Notes.md
+/Docs/ProcessDocs.md
+/Docs/KnowledgeBase
+
+# Snippets and tools
+Snippets
+CortexLib
+Tools
